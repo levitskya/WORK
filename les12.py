@@ -25,3 +25,4 @@ all_enemiess[5]["health"]=30                #міняємо 5 солдату з�
 all_enemiess[1]["loc_x"] += 100
 for ene in all_enemiess:
     print(ene)
+    
